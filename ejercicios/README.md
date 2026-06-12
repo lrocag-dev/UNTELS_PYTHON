@@ -58,3 +58,14 @@ git add .
 git commit -m "Agrega ejercicios sesion1 - modelado RC y señales"
 git push origin main
 ```
+
+
+# Alternativa sin Git
+Si algún estudiante tiene problemas con Git, pueden usar GitHub Desktop (interfaz gráfica):
+
+- Descargar: https://desktop.github.com/
+- Instalar y loguearse con GitHub
+- File → Clone repository → Elegir lrocag-dev/UNTELS_PYTHON
+- Arrastrar archivos a la carpeta
+- Escribir mensaje y click "Commit to main" → "Push origin"
+
