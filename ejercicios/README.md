@@ -49,13 +49,20 @@ cd C:\Users\TU_USUARIO\Desktop
 git clone https://github.com/lrocag-dev/UNTELS_PYTHON.git
 
 # Entrar a la carpeta
-cd UNTELS_PYTHON
-## Subir los ejercicios
-```
+cd UNTELS_PYTHON/ejercicios
 
-```console
-git add .
-git commit -m "Agrega ejercicios sesion1 - modelado RC y señales"
+# Crear la carpeta persoal
+mkdir tu_nombre
+
+# Copias tus respuestas en la carpeta personal
+# Agregas la carpeta al git
+git add tu_nombre
+
+# Verifica que los archivos han sido agregados
+git status
+
+# Subir los ejercicios
+git commit -m "Ejercicios - tu_nombre"
 git push origin main
 ```
 
